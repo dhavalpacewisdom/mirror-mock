@@ -1,12 +1,31 @@
 
 {
   "journalEntry": [
-    
+    {
+      "id": 1,
+      "feeling": "1",
+      "description":"It might feel like a quiet ache in the heart, a dullness in the mind, and a lack of energy or motivation."
+  },
+  {
+      "id": 2,
+      "feeling": "2",
+      "description":"The world around you seems neither particularly bright nor dark, just bland, leaving you feeling disinterested or disconnected from what's happening."
+  },
+  {
+      "id": 3,
+      "feeling": "3",
+      "description":"Your thoughts may become sharp and focused on what's upsetting you, with a strong urge to express or release that energy, whether through words, actions, or just clenching your fists."
+  },
+  {
+      "id": 4,
+      "feeling": "4",
+      "description":"Everything around you seems more vibrant, and you may find yourself more open to laughter, connection, and appreciation of the moment."
+  }
   ],
   "journalInsights": [
     {
       "id": 1,
-      "feeling": "Sad",
+      "feeling": "1",
       "insightsData": [
         {
           "timeOfDay": "morning",
