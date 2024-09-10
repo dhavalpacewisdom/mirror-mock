@@ -1,0 +1,33 @@
+{
+  "journalEntry": [
+    {
+      "feeling": "Sad",
+      "description": "It might feel like a quiet ache in the heart, a dullness in the mind",
+      "id": 1
+    }
+  ],
+  "journalInsights": [
+    {
+      "id": 1,
+      "feeling": "Sad",
+      "insightsData": [
+        {
+          "timeOfDay": "morning",
+          "lengthOfEntry": 55
+        },
+        {
+          "timeOfDay": "afternoon",
+          "lengthOfEntry": 25
+        },
+        {
+          "timeOfDay": "evening",
+          "lengthOfEntry": 50
+        },
+        {
+          "timeOfDay": "night",
+          "lengthOfEntry": 90
+        }
+      ]
+    }
+  ]
+}
