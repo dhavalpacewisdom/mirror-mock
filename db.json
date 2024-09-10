@@ -2,5 +2,29 @@
 {
   "journalEntry": [
     
+  ],
+  "journalInsights": [
+    {
+      "id": 1,
+      "feeling": "Sad",
+      "insightsData": [
+        {
+          "timeOfDay": "morning",
+          "lengthOfEntry": 55
+        },
+        {
+          "timeOfDay": "afternoon",
+          "lengthOfEntry": 25
+        },
+        {
+          "timeOfDay": "evening",
+          "lengthOfEntry": 50
+        },
+        {
+          "timeOfDay": "night",
+          "lengthOfEntry": 90
+        }
+      ]
+    }
   ]
 }
